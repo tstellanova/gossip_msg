@@ -5,9 +5,6 @@ authors = ["Todd Stellanova <tstellanova@users.noreply.github.com>"]
 edition = "2018"
 
 
-[dependencies]
-
-[build.dependencies]
+[build-dependencies]
 capnpc = "0.13.0"
-
 

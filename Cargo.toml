@@ -4,7 +4,8 @@ version = "0.1.0"
 authors = ["Todd Stellanova <tstellanova@users.noreply.github.com>"]
 edition = "2018"
 
+[dependencies]
+capnp = "0.13.2"
 
 [build-dependencies]
 capnpc = "0.13.0"
-
